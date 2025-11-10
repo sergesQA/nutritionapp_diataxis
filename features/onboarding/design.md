@@ -91,7 +91,6 @@ Store only `hashInsuranceId(id, salt)` in device storage if needed.
 ---
 
 ## Screenshots
-(See `README/testing` for embedded images; place screenshots under `assets/screenshots/`)
 
 - Insurance ID:
    ![Insurance ID](/assets/screenshots/01_onboarding_id.png)   
@@ -116,7 +115,4 @@ Store only `hashInsuranceId(id, salt)` in device storage if needed.
 - Diary:
    ![Profile](/assets/screenshots/08_profile.png)
 
-
-Embed example:
-```markdown
-![Onboarding - Enter Insurance ID](../../assets/screenshots/01_onboarding_id.png)
+---
