@@ -1,8 +1,4 @@
-Ниже — готовый, красиво отформатированный фрагмент README.md в Markdown, который можно вставить в репозиторий GitHub. Я сохранил содержимое и структуру ваших пунктов, добавил заголовки, оглавление и единый стиль для ссылок на файлы Diátaxis. В конце строки с Process добавил ссылку‑цитирование на ваш workflow (см. примечание).
 
-Скопируйте и вставьте этот блок в файл Nutri_App_Example/features/onboarding/README.md:
-
----
 # Onboarding — Insurance ID → Dietitian Survey → Main Navigation
 
 ## Brief
