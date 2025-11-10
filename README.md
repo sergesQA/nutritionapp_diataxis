@@ -36,7 +36,7 @@ https://v0-nutrition-tracking-app-git-demo-seges-projects-2d2c87ab.vercel.app/
 
 - Insurance ID:
 - ![Insurance ID](/assets/screenshots/01_onboarding_id.png)   
-- Survey — Basic: ![Survey — Basic](/assets/screenshots/02_survey_basic.png)  
+- ![Survey — Basic](/assets/screenshots/02_survey_basic.png)  
 - Survey — Preferences: ![Survey — Preferences](/assets/screenshots/03_survey_preferences.png)  
 - Survey — Goals: ![Survey — Goals](/assets/screenshots/04_survey_goals.png)  
 - Survey — Activity: ![Survey — Activity](/assets/screenshots/05_survey_activity.png)  
