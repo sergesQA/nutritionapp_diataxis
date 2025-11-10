@@ -7,7 +7,7 @@
 
 https://github.com/sergesQA/nutritionapp
 
-https://v0-nutrition-tracking-app-git-demo-seges-projects-2d2c87ab.vercel.app/
+https://v0-nutrition-tracking-app-taupe.vercel.app/
 
 ## Goal
 - Провести авторизованного пользователя через ввод идентификатора (placeholder: `insurance_id`),
