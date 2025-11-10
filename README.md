@@ -5,6 +5,10 @@
 
 Этот раздел описывает онбординг‑флоу: от ввода идентификатора до попадания на главный экран приложения с нижней навигацией.
 
+https://github.com/sergesQA/nutritionapp
+
+https://v0-nutrition-tracking-app-git-demo-seges-projects-2d2c87ab.vercel.app/
+
 ## Goal
 - Провести авторизованного пользователя через ввод идентификатора (placeholder: `insurance_id`),
 - Запустить и пройти 5‑шаговый опрос диетолога (dietitian survey),
