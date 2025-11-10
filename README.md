@@ -36,7 +36,7 @@ https://v0-nutrition-tracking-app-git-demo-seges-projects-2d2c87ab.vercel.app/
 (Place images under `assets/screenshots/` and use these relative links)
 
 - ![Entering ID](/assets/screenshots/01_onboarding_id.png)   
-- Survey — Basic: `../../assets/screenshots/02_survey_basic.png`  
+- Survey — Basic: ![Survey — Basic](/assets/screenshots/02_survey_basic.png)  
 - Survey — Preferences: `../../assets/screenshots/03_survey_preferences.png`  
 - Survey — Goals: `../../assets/screenshots/04_survey_goals.png`  
 - Survey — Activity: `../../assets/screenshots/05_survey_activity.png`  
