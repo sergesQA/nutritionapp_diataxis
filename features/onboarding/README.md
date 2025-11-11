@@ -105,9 +105,4 @@
 - `tasks.md` — backlog & implementation tasks  
 - `testing.md` — E2E tutorial, test commands, and expected results
 
-## File map (for reviewers)
-- `design.md` — architecture, rationale, PHI controls  
-- `references.md` — API endpoints, models, config keys  
-- `requirements.md` — detailed functional & non-functional requirements, ACs  
-- `tasks.md` — backlog & implementation tasks  
-- `testing.md` — E2E tutorial, test commands, and expected results
+---
